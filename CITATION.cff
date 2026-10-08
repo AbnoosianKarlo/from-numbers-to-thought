@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this book or its code, please cite it as below."
+title: "From Numbers to Thought: Machine Learning and Deep Learning, from Mathematical Foundations to Practice"
+type: book
+authors:
+  - family-names: Farnoosh
+    given-names: Rahman
+    affiliation: "Iran University of Science and Technology"
+  - family-names: Abnoosian
+    given-names: Karlo
+    affiliation: "Iran University of Science and Technology"
+year: 2026
+languages: [fa]
+repository-code: "https://github.com/AbnoosianKarlo/from-numbers-to-thought"
+license: MIT
+keywords: [machine learning, deep learning, linear algebra, probability, optimization, textbook, persian]
