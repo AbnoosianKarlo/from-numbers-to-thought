@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>The official companion repository of the Persian textbook</b><br>
-  <i>From Numbers to Thought (از عدد تا اندیشه): Machine Learning and Deep Learning, from Mathematical Foundations to Practice</i><br>
+  <i>From Numbers to Thought: Machine Learning and Deep Learning, from Mathematical Foundations to Practice</i><br>
   Dr. Rahman Farnoosh · Dr. Karlo Abnoosian — School of Mathematics and Computer Science, Iran University of Science and Technology
 </p>
 
@@ -132,7 +132,7 @@ from-numbers-to-thought/
 
 ## ✍️ Solutions
 
-The printed book contains worked solutions only for the most important exercises of each chapter, marked with ★. **The complete solutions of all 218 exercises** — mathematical, conceptual and programming — live in [`solutions/`](solutions/README.md). The solutions are written in Persian, like the book, and all mathematics is typeset in LaTeX, which GitHub renders natively.
+The printed book contains worked solutions only for the most important exercises of each chapter, marked with ★. **The complete solutions of all 218 exercises** — mathematical, conceptual and programming — live in [`solutions/`](solutions/README.md). The solutions are written in English and all mathematics is typeset in LaTeX, which GitHub renders natively. Exercise numbers match the book exactly.
 
 > 💡 Try each exercise on your own first. The solutions are there to check your reasoning, not to replace it.
 
